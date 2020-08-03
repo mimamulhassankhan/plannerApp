@@ -1,0 +1,9 @@
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\bin\Debug\netstandard2.0\PlannerApp.shared.deps.json
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\bin\Debug\netstandard2.0\PlannerApp.shared.dll
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\bin\Debug\netstandard2.0\PlannerApp.shared.pdb
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\obj\Debug\netstandard2.0\PlannerApp.shared.csprojAssemblyReference.cache
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\obj\Debug\netstandard2.0\PlannerApp.shared.AssemblyInfoInputs.cache
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\obj\Debug\netstandard2.0\PlannerApp.shared.AssemblyInfo.cs
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\obj\Debug\netstandard2.0\PlannerApp.shared.dll
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\obj\Debug\netstandard2.0\PlannerApp.shared.pdb
+C:\Users\DCL\OneDrive - Daffodil International University\Visual_studio_projects\PlannerApp\PlannerApp\PlannerApp.shared\obj\Debug\netstandard2.0\PlannerApp.shared.csproj.CoreCompileInputs.cache

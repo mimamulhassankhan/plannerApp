@@ -1,0 +1,44 @@
+﻿@page "/auth/register/"
+@layout AuthLayout
+@using PlannerApp.shared.Models 
+
+<div class="row">
+    <div class="col-12">
+        <h2>Create a new account</h2>
+        <RadzenCard>
+            <EditForm Model="newRegistration" OnInvalidSubmit="RegisterNewUser">
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+
+                <label>First name</label><br />
+                <RadzenTextBox @bind-Value="newRegistration.FirstName"></RadzenTextBox><br />
+
+                <label>Last name</label><br />
+                <RadzenTextBox @bind-Value="newRegistration.LastName"></RadzenTextBox><br />
+
+                <label>Email</label><br />
+                <RadzenTextBox @bind-Value="newRegistration.EmailAddress"></RadzenTextBox><br />
+
+                <label>Password</label><br />
+                <RadzenPassword @bind-Value="newRegistration.Password"></RadzenPassword><br />
+
+                <label>Confirm password</label><br />
+                <RadzenPassword @bind-Value="newRegistration.ConfirmPassword"></RadzenPassword><br />
+                <hr />
+
+                <RadzenButton ButtonType="Radzen.ButtonType.Submit" class="btn-block mr-2" Text="Register" ButtonStyle="Radzen.ButtonStyle.Primary"></RadzenButton>
+
+                <RadzenButton ButtonType="Radzen.ButtonType.Button" class="btn-block mr-2" Text="Login" ButtonStyle="Radzen.ButtonStyle.Secondary"></RadzenButton>
+            </EditForm>
+        </RadzenCard>
+    </div>
+</div>
+
+@code {
+    RegistrationRequest newRegistration = new RegistrationRequest();
+
+    public void RegisterNewUser()
+    {
+
+    }
+}
